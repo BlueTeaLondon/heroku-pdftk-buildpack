@@ -1,6 +1,6 @@
-Custom buildpack that will install pdftk into /app/bin on Heroku. Supports **cedar-14**, **heroku-16**, **heroku-18**, and **heroku-20**.
+Custom buildpack that will install pdftk into /app/bin on Heroku. Supports **cedar-14**, **heroku-16**, **heroku-18**, and **heroku-20** (thanks to contributions from @ashishprajapati).
 
-# Heroku-18
+# Heroku-20
 Since GCJ was dropped, using:
 https://launchpad.net/ubuntu/bionic/amd64/gcj-6-jdk/6.4.0-14ubuntu1
 
